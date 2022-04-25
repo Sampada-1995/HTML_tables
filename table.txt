@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+td{border:3px dotted red;}
+tr{background-color: blue;color:white;}
+</style>
+</head>
+<h2>HTML Table</h2>
+<table>
+   <tr>
+     <th>Company</th>
+     <th>Contact</th>
+     <th>Country</th>
+   </tr>
+   <tr>
+     <td>Centro</td>
+     <td>Fransisco</td>
+     <td>Mexico</td>
+</table>
+</html>
